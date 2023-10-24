@@ -1,4 +1,4 @@
-const sumOfTwoNumbers = require('./sumOfTwoNumbers');
+const sumOfTwoNumbers = require('../problems/sumOfTwoNumbers');
 
 describe('sumOfTwoNumbers', () => {
     it('should return true if two numbers in the array sum up to k', () => {
